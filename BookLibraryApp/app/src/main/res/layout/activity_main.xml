@@ -38,7 +38,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:srcCompat="@drawable/ic_empty"
+            app:srcCompat="@drawable/ic_empty"
             android:alpha="0.1"
             android:visibility="gone"/>
 
